@@ -29,7 +29,8 @@ body {
 }
 .container {
   display: grid;
-  grid-template: auto / repeat(5, 1fr)
+  grid-template: auto / repeat(5, 1fr);
+  /* gap: 0.1em */
   
 }
 .dice-view {
